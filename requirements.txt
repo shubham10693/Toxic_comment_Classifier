@@ -182,7 +182,6 @@ tzlocal==2.1
 ujson==3.2.0
 urllib3==1.25.9
 validators==0.18.1
-virtualenv==20.0.28
 visions==0.4.4
 wasabi==0.8.0
 watchdog==1.0.1
