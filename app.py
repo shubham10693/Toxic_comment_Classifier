@@ -1,4 +1,5 @@
 from flask import Flask, render_template, url_for, request, jsonify
+import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 import numpy as np
